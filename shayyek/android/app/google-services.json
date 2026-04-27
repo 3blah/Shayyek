@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "488386682748",
+    "firebase_url": "https://smartpasrk-default-rtdb.firebaseio.com",
+    "project_id": "smartpasrk",
+    "storage_bucket": "smartpasrk.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488386682748:android:99c4ab15bb42296a964ef9",
+        "android_client_info": {
+          "package_name": "com.example.shayyek"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNhuW2ran5pM_K90i-a2m9y6o3j6SI5gI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
